@@ -19,11 +19,13 @@ To get started with the project, follow these steps:
 1) Clone the repository:
     git clone https://github.com/Balakrishna-73/Mobile-Application
 2) Install dependencies:
-    npm install
-    npx create-expo-app@latest -e with-router ./   
-4) Run the Expo development server:
+    - npm install
+    - npx create-expo-app@latest -e with-router ./
+    - npm install @react-navigation/stack
+    - npm install @react-navigation/native
+3) Run the Expo development server:
     npm start
-5) Open the Expo app on your mobile device and scan the QR code to view the app.
+4) Open the Expo app on your mobile device and scan the QR code to view the app.
 # Usage
 The app displays a list of job listings fetched from the backend.
 Users can view job details and apply for jobs directly from the app.
