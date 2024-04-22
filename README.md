@@ -35,3 +35,4 @@ Users can view job details and apply for jobs directly from the app.
 ![Part Time](/images/partimejob.png)
 ![Intern](/images/about-intern.png)
 ![Responsibilites](/images/response.png)
+![Search](/images/search.png)
