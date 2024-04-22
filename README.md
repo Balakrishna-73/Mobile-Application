@@ -28,3 +28,10 @@ To get started with the project, follow these steps:
 The app displays a list of job listings fetched from the backend.
 Users can view job details and apply for jobs directly from the app.
    
+# Demo Screenshots
+![LoginPage](/images/login_app.png)
+![Homepage](/images/homepage.png)
+![Full time](/images/fulltimejob.png)
+![Part Time](/images/partimejob.png)
+![Intern](/images/about-intern.png)
+![Responsibilites](/images/response.png)
